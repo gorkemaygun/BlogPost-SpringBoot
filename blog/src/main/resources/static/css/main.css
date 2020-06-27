@@ -1,0 +1,30 @@
+html{
+    background-color:#eee ;
+    padding: 0.5em 1em;
+}
+h1,h2,h3,h4 {
+    display: block;
+}
+
+.btn{
+    margin:5%;
+}
+
+.form{
+    display: block;
+}
+input{
+    margin:5px;
+}
+.input1{
+    margin-left: 4%;
+}
+.input2{
+    margin-left: 2.4%;
+}
+.row{
+    text-align: center;
+}
+p .submit{
+    font-weight: 40px;
+}
